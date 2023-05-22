@@ -1,0 +1,45 @@
+.bank-name {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 60px;
+  padding-top: 60px;
+  padding-bottom: 90px;
+  font-size: 60px;
+}
+
+.card-number {
+  padding-left: 90px;
+  font-size: 40px;
+  font-family: Anuphan, sans-serif;
+  letter-spacing: 7px;
+}
+
+.small-num {
+  padding: 90px;
+}
+.thru-text {
+  padding-left: 210px;
+}
+
+.holder-name {
+  padding-top: 50px;
+  padding-left: 90px;
+  letter-spacing: 1px;
+  font-family: Merriweather, sans-serif;
+  font-size: 29px;
+}
+
+.valid-date {
+  display: flex;
+}
+
+.valid-text {
+  padding-left: 250px;
+  padding-right: 7px;
+  font-size: 20px;
+}
+
+.date-num {
+  font-size: 37px;
+  letter-spacing: 4px;
+}
